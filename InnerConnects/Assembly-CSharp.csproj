@@ -109,8 +109,10 @@
     <Compile Include="Assets\Imported Assets\Unity3DRuntimeTransformGizmo\RuntimeGizmo\UndoRedo\ICommand.cs" />
     <Compile Include="Assets\Imported Assets\Unity3DRuntimeTransformGizmo\RuntimeGizmo\UndoRedo\UndoRedo.cs" />
     <Compile Include="Assets\Imported Assets\Unity3DRuntimeTransformGizmo\RuntimeGizmo\UndoRedo\UndoRedoManager.cs" />
+    <Compile Include="Assets\Scripts\DestroyPiece.cs" />
     <Compile Include="Assets\Scripts\Looker.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\PieceManager.cs" />
     <None Include="Assets\Imported Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\Imported Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\Imported Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
