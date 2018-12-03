@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-M:/College/3DVirtualWorlds/GMIT-Y4-3DVW-InnerConnects/Builds/InnerConnects DestroyGamePieces-Disabled/InnerConnects DestroyGamePieces-Disabled.exe
+D:/College/3DVirtualWorlds/GMIT-Y4-3DVW-InnerConnects/Builds/InnerConnects/InnerConnects.exe
 SceneListBegin?
 Assets/Scenes/Start_Menu.unity
 Assets/Scenes/Level_01.unity
